@@ -27,6 +27,16 @@ These are the elements outlined in John Gruber’s original design document. All
 
 > blockquote
 
+### Line Break
+
+#### Soft Break. This is entering to the next line.
+Type two spaces then hit ENTER
+
+
+#### Hard Break.
+This is a new paragraph.
+Hit enter twice.
+
 ### Ordered List
 
 1. First item
