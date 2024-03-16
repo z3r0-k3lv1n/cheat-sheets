@@ -29,12 +29,14 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Line Break
 
-#### Soft Break. This is entering to the next line.
+#### Soft Break.  
+This is entering to the next line.  
 Type two spaces then hit ENTER
 
 
 #### Hard Break.
 This is a new paragraph.
+
 Hit enter twice.
 
 ### Ordered List
